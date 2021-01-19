@@ -1,0 +1,7 @@
+php:
+  preset: laravel
+js:
+  finder:
+    exclude:
+      - bin
+css: true
